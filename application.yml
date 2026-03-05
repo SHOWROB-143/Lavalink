@@ -22,7 +22,7 @@ lavalink:
         frameBufferDurationMs: 5000
         gcWarnings: true
         opusEncodingQuality: 5
-        password: glace
+        password: showrob
         playerUpdateInterval: 5
         readTimeout: 60000
         requestTimeout: 60000
